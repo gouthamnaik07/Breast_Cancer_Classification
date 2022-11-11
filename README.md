@@ -5,6 +5,7 @@ There are two types of tumor :-<br>
 1.Begnig Tumor - Non Cancer , Slow growing , Cells are normal .<br>
 2.Malignant Tumor - Cancerous , Fast growimg , Cells are large .<br> 
 
+<br>
 -> '1' represents Begnig , '0' represents Malignant<br>
 ->  Properties of cell are --<br>
       1.radius_mean<br>
