@@ -1,8 +1,9 @@
 # Breast-Cancer-Classification
 
+<br>
 There are two types of tumor :-
 1.Begnig Tumor - Non Cancer , Slow growing , Cells are normal .
-2.Malignant Tumor - Cancerous , Fast growimg , Cells are large .
+2.Malignant Tumor - Cancerous , Fast growimg , Cells are large .<br> <br>
 
 -> '1' represents Begnig , '0' represents Malignant
 ->  Properties of cell are --
