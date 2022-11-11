@@ -18,8 +18,9 @@ There are two types of tumor :-<br>
       8.concavepoints_mean <br>
       9.symmetry_mean <br>
       10.fractal_dimension_mean <br>
+      etc..<br>
       
-      <br>
+    
   -> Workflow 
       Dataset ->Data pre processing -> Train test split -> Logistic Regression model <br>
       NewData -> Trained Logistic Regression model -> Benign or Malignant <br>
